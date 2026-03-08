@@ -130,7 +130,3 @@ Filesystem                    Size  Used Avail Use% Mounted on
 - **Zero-downtime** disk extension in a live environment
 
 ---
-
-## Resume Line
-
-> *Implemented Logical Volume Management (LVM) to dynamically extend server storage without downtime using pvcreate, vgcreate, lvcreate, and online filesystem resize.*
